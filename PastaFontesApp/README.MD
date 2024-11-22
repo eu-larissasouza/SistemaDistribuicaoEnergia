@@ -1,0 +1,6 @@
+Guarde aqui somente arquivos fonte de programas de computador escritos em uma linguagem de programação como:
+
+C#;
+JAVA;
+React;
+VB.net.
